@@ -1,0 +1,7 @@
+.env
+__pycache__
+mBERT_model/
+model_state/
+flagged/
+feature_resources/
+.DS_Store
