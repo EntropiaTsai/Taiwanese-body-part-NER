@@ -45,7 +45,7 @@ This project provides a template of **Taiwanese body part NER**, which is presen
 - Demo:
     - `app.py` generates the API through FastAPI, and utilses the API it in `gradio_ui.py` to activate the user interface.
 
-## 📁 使用方法
+## 📁 How to work it
 - Run `app.py` through uvicorn to generate the API:
 
 `uvicorn app:app --reload --port 8000`
